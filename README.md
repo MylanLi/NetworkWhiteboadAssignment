@@ -1,5 +1,7 @@
 # Network Whiteboad
 
+![demo](NetworkedWhiteboard.gif)
+
 ## Goals
 
 1. Create a program that could communicate over a network.
